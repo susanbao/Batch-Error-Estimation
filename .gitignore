@@ -1,0 +1,11 @@
+*.log
+*.swp
+*.o
+*.txt
+*.a
+*.out
+*.ods
+*.dot
+*.ps
+*.png
+tags
